@@ -1,4 +1,4 @@
-// Q-1  https://leetcode.com/problems/find-peak-element/
+// Q-1)  https://leetcode.com/problems/find-peak-element/
 var findPeakElement = function (arr) {
   let peak = []
   let n = arr.length - 1
