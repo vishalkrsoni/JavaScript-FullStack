@@ -1,0 +1,50 @@
+
+Q-1) Explain the working of the following commands:
+
+1. pwd
+-- To print the path of the working directory, starting from the root.
+
+2. ls -l
+-- To list files/contents of directory in table format 
+
+3. ls -a
+-- To list all the files or directories(hidden as well)
+
+4. mkdir
+-- To create a directory/folder
+
+5. rm
+-- To cut/remove a folder/file
+
+6. cp
+-- To copy any folder/file
+
+7. cp -r
+-- To copy folder and all the files inside it(recursively)
+
+8. mv
+-- To move a file from one place to the other
+
+9. rm -f
+-- To delete/remove a file forcefully(System files or hidden files as well)
+
+10. rm -r
+-- To delete/ remove files recursively
+
+11. echo
+-- To display lines of text or string which are passed as arguments on the command line. 
+
+12. cat
+-- To concatinate(allows us to create single or multiple files, view content of a file, concatenate files and redirect output in terminal/files)
+
+13. history
+-- To check the history of all the terminal commands used before
+
+14. man
+-- It is the system's manual pager. 
+Each page argument given to man is normally the name of a program, utility or function.
+The manual page associated with each of these arguments is then found and displayed. 
+
+15. head
+-- To prints the first lines of one or more files (or piped data) to standard output. 
+By default, it shows the first 10 lines.

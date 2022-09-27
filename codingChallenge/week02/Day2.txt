@@ -1,0 +1,45 @@
+/*
+Q-1 ) Write a brief description of all the below commands. (15
+Marks)
+
+1. Git pull
+Ans:- To pull the latest code from repository(With current changes )
+Pulling is the automated version of git fetch. 
+It downloads a branch from a remote repository, then immediately merges it into the current branch. 
+
+2. Git push
+Ans:- To push the code from local to our current repo.
+Pushing is the opposite of fetching. 
+It lets us move a local branch to another repository, which serves as a convenient way to publish contributions. 
+
+3. Git log
+Ans:- To explore the previous revisions of a project. 
+It provides several formatting options for displaying committed snapshots.
+
+4. Git status
+Ans:- To check the state of our working directory and staging area.
+We can run this in conjunction with git add and git commit to see exactly what’s being included in the next snapshot.
+
+5. Git commit
+Ans:- To commit current changes made in the staging area.
+It takes the staged snapshot and commits it to the project history. 
+Combined with git add, this defines the basic workflow for all Git users.
+
+6. Git init
+Ans:- To create(initialize) a new git repo
+If we want to place a project under revision control, this is the first command we need to know.
+
+7. Git clone
+Ans:- It creates a copy of an existing Git repository. 
+Cloning is the most common way to obtain a working copy of a central repository.
+
+8. Git Checkout
+Ans:- To check out old commits and old file revisions,
+To navigate through existing branches. 
+
+9. mkdir
+Ans:- To create a directory/folder
+
+10. ls -a
+Ans:- To list all the files or directories(hidden as well)
+*/

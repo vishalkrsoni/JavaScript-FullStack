@@ -1,0 +1,43 @@
+
+1. git init
+Ans:- To create(initialize) a new git repo
+If we want to place a project under revision control, this is the first command we need to know.
+
+2. git status
+Ans:- To check the state of our working directory and staging area.
+We can run this in conjunction with git add and git commit to see exactly what’s being included in the next snapshot.
+
+3. git add
+Ans:- To add the changes made in the working directory to the staging area.
+This gives us the opportunity to prepare a snapshot before committing it to the official history.
+
+4. git commit
+Ans:- To commit current changes made in the staging area.
+It takes the staged snapshot and commits it to the project history. 
+Combined with git add, this defines the basic workflow for all Git users.
+
+5. git push
+Ans:- To push the code from local to our current repo.
+Pushing is the opposite of fetching. 
+It lets us move a local branch to another repository, which serves as a convenient way to publish contributions. 
+
+6. git pull
+Ans:- To pull the latest code from repository(With current changes )
+Pulling is the automated version of git fetch. 
+It downloads a branch from a remote repository, then immediately merges it into the current branch. 
+
+7. git clone
+Ans:- It creates a copy of an existing Git repository. 
+Cloning is the most common way to obtain a working copy of a central repository.
+
+8. git log
+Ans:- To check all the commits in a repository's history
+It lets us explore the previous revisions of a project. 
+It provides several formatting options for displaying committed snapshots.
+
+9. git diff
+Ans:- To check the changes between commits, commit and working tree, etc
+
+10. git checkout
+Ans:- To check out old commits and old file revisions,
+To navigate through existing branches. 
